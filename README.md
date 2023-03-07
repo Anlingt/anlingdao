@@ -14,4 +14,7 @@ this is how my time at ethdenver went:
 * the game space event
 * the house party
 
+### my favorite people
+* Yaz
+
 **having a lot of fun in denver**
