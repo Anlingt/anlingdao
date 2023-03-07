@@ -1,6 +1,8 @@
 # AnlingDAO　
 A DAO only for Anling
 
+![alt text](IMG_8243.HEIC)
+
 ## A blog post only for anling
 
 this is how my time at ethdenver went:
