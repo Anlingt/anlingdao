@@ -1,7 +1,7 @@
 # AnlingDAO　
 A DAO only for Anling
 
-![alt text](IMG_8243.HEIC)
+![alt text](IMG_8243.jpg)
 
 ## A blog post only for anling
 
